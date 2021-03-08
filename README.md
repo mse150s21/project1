@@ -2,3 +2,6 @@
 
 ## TODO:
 Determine individual Young's modulus of the 1000 samples in the `samples` directory, plus the average and standard deviation of these samples.
+
+
+Let's make a plan today!
